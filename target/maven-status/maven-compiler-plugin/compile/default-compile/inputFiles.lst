@@ -1,0 +1,14 @@
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\service\impl\UserServiceImpl.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\constant\UserConstant.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\UserCenterBackendApplication.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\common\ErrorCode.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\common\ResultUtils.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\exception\GlobalExceptionHandler.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\mapper\UserMapper.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\model\request\UserRegisterRequest.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\common\BaseResponse.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\controller\UserController.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\model\request\UserLoginRequest.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\exception\BusinessException.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\service\UserService.java
+D:\Computer Science\Java\Java Projects\User-Center-Backend\src\main\java\com\syy\usercenterbackend\model\domain\User.java
