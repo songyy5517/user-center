@@ -19,4 +19,4 @@
 5. JUnit 单元测试库
 
 ### 系统首页
-![User Center System Homepage](https://github.com/songyy5517/user-center-backend/assets/homepage.png)
+![User Center System Homepage](https://github.com/songyy5517/user-center-backend/blob/main/assets/homepage.png?raw=true)
