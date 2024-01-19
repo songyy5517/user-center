@@ -20,3 +20,6 @@
 
 ### 系统首页
 ![User Center System Homepage](https://github.com/songyy5517/user-center-backend/blob/main/assets/homepage.png?raw=true)
+
+### 注册界面
+![User Center System Register](https://github.com/songyy5517/user-center-backend/blob/main/assets/register.png?raw=true)
